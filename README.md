@@ -1,2 +1,2 @@
 # git-tutorial
-git tutorial and documentation
+git tutorial and documentation.
